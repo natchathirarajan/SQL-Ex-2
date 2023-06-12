@@ -6,7 +6,7 @@ To write a sql query to fetch the no_of_works for each department in descending 
 Create database ORG.
 ### Step 2:
 Create table Worker,Bonus,Title.
-### Step 3:
+### Step 3: 
 Insert Value to the tables.
 ### Step 4:
 Select no_of_works for each department in descending order.
